@@ -7,6 +7,9 @@ Para poder crear las PCB's se ha fabricado previamente una insoladora de leds ul
 <img src="Images/DSCF3151.jpg" width="500" align = "center">
 </p>
 
+## Autor
+[Rubén Espino San José](https://github.com/Resaj)
+
 ## License
 <p align="center">
 <img src="license/by-sa.png" align = "center">
